@@ -1,13 +1,3 @@
-Automated push to GitHub file
+Automated push to GitHub test file
 
-Test2.txt...
-
-Pls work
-
-Added some more text down here to perform another push
-
-One final check before moving SSH key location...
-
-*** Pushing to GitHub with private key in another location ***
-
-OK, now don't push this...
+Deleted a bunch of stuff... new test lines will go under this.

@@ -7,3 +7,4 @@ Automated push to GitHub test file
  - Check 3 --> used different SshdSessionFactory initialization (builder instead of new keyword) (Passed)
 
  - Check 4 --> changed the location of the private key file to something other than "/.ssh"
+    - Try 2, had errors regarding finding the key

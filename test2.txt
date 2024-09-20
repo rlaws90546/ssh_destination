@@ -8,3 +8,5 @@ Automated push to GitHub test file
 
  - Check 4 --> changed the location of the private key file to something other than "/.ssh" (PASSED)
     - Also, added date and time to end of commit messages
+
+ - Check 5 --> create temporary file (and set location for the file) to hold private key passed as parameter

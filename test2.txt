@@ -1,6 +1,6 @@
 Automated push to GitHub test file
 
-1. SSH agent was sharing the keys... so now I have to retry...
+SSH agent was sharing the keys... so now I have to retry...
 
  - Check 2 --> used different SshdSessionFactory initialization without configure (PASSED)
 
@@ -9,4 +9,6 @@ Automated push to GitHub test file
  - Check 4 --> changed the location of the private key file to something other than "/.ssh" (PASSED)
     - Also, added date and time to end of commit messages
 
- - Check 5 --> create temporary file (and set location for the file) to hold private key passed as parameter
+ - Check 5 --> create temporary file (and set location for the file) to hold private key passed as parameter (PASSED)
+
+ - Check 6 --> trying to add and commit changes to whole directory, not just singular file

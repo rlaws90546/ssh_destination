@@ -3,3 +3,5 @@ Automated push to GitHub test file
 1. SSH agent was sharing the keys... so now I have to retry...
 
  - Check 2 --> used different SshdSessionFactory initialization without configure
+
+ - Check 3 --> used different SshdSessionFactory initialization (builder instead of new keyword)

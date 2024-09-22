@@ -11,4 +11,6 @@ SSH agent was sharing the keys... so now I have to retry...
 
  - Check 5 --> create temporary file (and set location for the file) to hold private key passed as parameter (PASSED)
 
- - Check 6 --> trying to add and commit changes to whole directory, not just singular file
+ - Check 6 --> trying to add and commit changes to whole directory, not just singular file (PASSED)
+
+** Ensuring that key is not in set directory and that the key file is deleting **

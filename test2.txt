@@ -14,3 +14,6 @@ SSH agent was sharing the keys... so now I have to retry...
  - Check 6 --> trying to add and commit changes to whole directory, not just singular file (PASSED)
 
 Trying to check functionality when the known_hosts file is removed... (not feeling confident)
+... I was correct. Need to work on figuring out how to get around this.
+
+Another commit that shouldn't go through --> changed the private key string

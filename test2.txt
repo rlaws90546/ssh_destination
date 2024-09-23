@@ -16,6 +16,4 @@ SSH agent was sharing the keys... so now I have to retry...
 Trying to check functionality when the known_hosts file is removed... (not feeling confident)
 ... I was correct. Need to work on figuring out how to get around this.
 
-Another commit that shouldn't go through --> changed the private key string
-
-Now I changed it back. Please go through :)
+Try 1: messed with config settings

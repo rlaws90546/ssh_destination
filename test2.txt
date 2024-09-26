@@ -19,3 +19,6 @@ Trying to check functionality when the known_hosts file is removed... (not feeli
 Try 1: messed with config settings
 --> Trying again to reduce errors generated.
 --> Messed with some config settings -- One last time to get rid of errors...
+
+Now trying with config file also automated.
+--> Same logic as the key file

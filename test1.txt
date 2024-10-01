@@ -1,5 +1,3 @@
 Automated push to GitHub test file
 
-  Lorem ipsum odor amet, consectetuer adipiscing elit. Pellentesque dapibus ultricies nunc turpis facilisi sagittis. Himenaeos lacus feugiat eros morbi odio mattis. Euismod et curae sed velit quisque commodo lacinia tristique. Nascetur elementum condimentum tincidunt at fermentum condimentum. Amet felis quisque maecenas lobortis imperdiet turpis proin libero. Maximus scelerisque est gravida risus velit, nibh nunc eleifend.
-
-Pls pls work
+Now trying to push using keys loaded to KeyPair... was not easy, would be super cool if it worked...

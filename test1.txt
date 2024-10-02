@@ -4,8 +4,6 @@ Try 1 with new key format <-- scratch that, don't know how to do conversion with
 
 Try 1b, make it work again... and again... and one last time
 
-Have to force commit to make sure GitHub has the key...
-
-THEN, FINAL TEST, PLEASE GO THROUGH!!
+FINAL TEST, PLEASE GO THROUGH!!
 
 EOF

@@ -7,3 +7,7 @@ I am getting a caught error message relating to creating the KeyPair object, but
 Try 2, issues with syntax.
 
 Public key is not being read in correctly.
+^^
+Don't need public key I don't think, but we're gonna leave it in there
+
+Added config file to get around security of GitHub (hopefully)

@@ -1,3 +1,3 @@
-1. Make it workkkk, please
+1. (Put instructions here)
 
 EOF

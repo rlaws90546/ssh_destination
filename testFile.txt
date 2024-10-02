@@ -1,6 +1,6 @@
 Created new, cleaner repository. Checking the functionality of it.
 
-Please copy public key correctly... Messing w more variables...
+Please copy public key correctly... Messing with more variables...
 
   Lorem ipsum odor amet, consectetuer adipiscing elit. Pellentesque dapibus ultricies nunc turpis facilisi sagittis. Himenaeos lacus feugiat eros morbi odio mattis. Euismod et curae sed velit quisque commodo lacinia tristique. Nascetur elementum condimentum tincidunt at fermentum condimentum. Amet felis quisque maecenas lobortis imperdiet turpis proin libero. Maximus scelerisque est gravida risus velit, nibh nunc eleifend.
 

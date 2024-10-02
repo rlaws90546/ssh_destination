@@ -1,5 +1,3 @@
 Automated push to GitHub test file
 
-Houston, we may have fixed the problem
-
-Text text text 
+EOF

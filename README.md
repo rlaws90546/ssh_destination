@@ -1,3 +1,3 @@
-1. Make sure this poorly written code in the other repo works...
+1. Make it workkkk, please
 
 EOF

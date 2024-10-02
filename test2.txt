@@ -1,5 +1,3 @@
 Automated push to GitHub test file
 
-SSH agent was holding the key... so now I am retrying with this file...
-
-Agent thing is figured out, now I can't commit?
+Houston, we have a problem...

@@ -1,5 +1,7 @@
 Automated push to GitHub test file
 
-Try 1 with new key format
+Try 1 with new key format <-- scratch that, don't know how to do conversion with ed25519 keys
+
+Try 1b, make it work again...
 
 EOF

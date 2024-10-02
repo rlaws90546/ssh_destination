@@ -1,3 +1,5 @@
 Automated push to GitHub test file
 
-Now trying to push using keys loaded to KeyPair... was not easy, would be super cool if it worked...
+I am getting a caught error message relating to creating the KeyPair object, but I am not sure what is causing it. So I added more information to the print statement...
+
+Try 2, issues with syntax.

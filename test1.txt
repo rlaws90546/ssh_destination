@@ -2,4 +2,6 @@ Automated push to GitHub test file
 
 10/9 Test push, cleaned up the code but need to make sure it works.
 
+Test 2 of 10/9 -> checking push without the configuration file creation.
+
 EOF

@@ -4,4 +4,6 @@ TEXT TEXT TEXT
 
 10/9 Test blah blah blah
 
+Test 2 of 10/9 -> checking push without the configuration file creation.
+
 EOF

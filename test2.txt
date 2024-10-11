@@ -6,4 +6,6 @@ TEXT TEXT TEXT
 
 Test 2 of 10/9 -> checking push without the configuration file creation.
 
+ED25519 key try 1
+
 EOF

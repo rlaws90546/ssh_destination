@@ -6,4 +6,6 @@ Test 2 of 10/9 -> checking push without the configuration file creation.
 
 Working with ED25519 keys, here it goes...
 
+Try 2: failed to create KeyPair obj
+
 EOF
